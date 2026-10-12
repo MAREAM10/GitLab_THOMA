@@ -1,0 +1,1 @@
+Git staging area is useful to commit the stage files and to store in the repository.
